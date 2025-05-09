@@ -457,7 +457,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">http://originawsdev1.int.webmethods/integration/private/restv2/development/fl326f64a006b6d1b3d7cd55/restTest/refert</value>
+  <value name="xml">https://originawsdev1.dev-int-aws-us.webmethods.io/integration/restv2/development/fl326f64a006b6d1b3d7cd55/restTest/refert</value>
 </Values>
 </DATA>
 </MAPSET>
